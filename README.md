@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamranswal" alt="shubhamranswal" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.shubham-ranswal.ml/](https://www.shubham-ranswal.ml/)
+- 👨‍💻 All of my projects are available at [shubham-ranswal.ml](https://www.shubham-ranswal.ml/)
 
 - 📫 How to reach me **shubhamranswal@gmail.com**
 
