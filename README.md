@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **shubhamranswal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/u/2/d/1XgG-UhY9SxOeHjAW8XYGjvnOuzkMUnPv/view?usp=sharing](https://drive.google.com/file/u/2/d/1XgG-UhY9SxOeHjAW8XYGjvnOuzkMUnPv/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/u/2/d/1XgG-UhY9SxOeHjAW8XYGjvnOuzkMUnPv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
