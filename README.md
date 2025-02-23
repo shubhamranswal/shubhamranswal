@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamranswal" alt="shubhamranswal" /></a> </p>
 
-- 👨‍💻 Reach me at [https://shubhamranswal.github.io/](https://shubhamranswal.github.io/)
+- 👨‍💻 Reach me at [https://shubham-ranswal.web.app/](https://shubham-ranswal.web.app/)
 
 - 📫 or drop an email @ **shubhamranswal@gmail.com**
 
