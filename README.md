@@ -69,3 +69,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamranswal&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
+[![An image of @shubhamranswal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamranswal)](https://holopin.io/@shubhamranswal)
