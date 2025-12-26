@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Shubham Singh Ranswal</h2>
+<h2 align="center">Hi, I'm Shubham Singh Ranswal</h2>
 <h3 align="center">Software Engineer | Data Security | Fintech | Full-Stack Development</h3>
 
 ---
@@ -7,9 +7,7 @@
 ### 👨‍💻 About Me
 - 💼 Software Engineer at **Thales Group**, working on **payment security infrastructure** with Thales payShield 10K.  
 - 🔐 Experienced in cryptographic standards (**RSA, ECC, AES, DES**) and ISO/ANSI protocols for securing financial transactions.  
-- ⚡ Built a **Golang utility** to automate HSM configuration and MultiLMK setup — reduced setup time by 50% with 100% accuracy.  
 - 🛠️ Skilled in **backend, app, and full-stack development** with **Python, Go, Flutter, Firebase, and modern web technologies**.  
-- 🤖 Explored **Generative AI** to build chatbots and data-driven applications.  
 - 🌐 Portfolio Website: [shubham-ranswal.web.app](https://shubham-ranswal.web.app/)  
 - ✍️ I also write at my blog: [Bluebytes](http://shubham-ranswal.web.app/bluebytes).  
 - 🌱 Always exploring new ways to apply technology to solve real-world challenges.  
@@ -24,7 +22,6 @@
 <a href="https://www.codechef.com/users/shubham_ranswa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubham_ranswa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubhamranswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamranswal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shubhamranswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamranswal" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shubhamranswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shubhamranswal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shubhamranswal/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamranswal/profile" height="30" width="40" /></a>
 </p>
 
@@ -56,20 +53,9 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
-
----
-
-### ⚙️ Enterprise Tools & Domain Expertise
-- Versioning & Collaboration: **Git, Bitbucket, Jira, Confluence**  
-- CI/CD & Automation: **Bamboo, Python scripting**  
-- Databases: **MySQL, Firestore**  
-- Payment Security & Cryptography: **Thales payShield 10K, MultiLMK, RSA, ECC, AES, DES, ISO/ANSI Standards, PIN & EMV formats**  
 
 ---
 
