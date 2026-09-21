@@ -5,12 +5,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhamranswal&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamranswal" /></p>
 
 ### 👨‍💻 About Me
-- 💼 Software Engineer at **Thales Group**, working on **payment security infrastructure** with Thales payShield 10K.  
-- 🔐 Experienced in cryptographic standards (**RSA, ECC, AES, DES**) and ISO/ANSI protocols for securing financial transactions.  
-- 🛠️ Skilled in **backend, app, and full-stack development** with **Python, Go, Flutter, Firebase, and modern web technologies**.  
+- 🛠️ Skilled in - wait, you name the stack, I'll use it.  
 - 🌐 Portfolio Website: [shubham-ranswal.web.app](https://shubham-ranswal.web.app/)  
 - ✍️ I also write at my blog: [Bluebytes](http://shubham-ranswal.web.app/bluebytes).  
-- 🌱 Always exploring new ways to apply technology to solve real-world challenges.  
+- 🌱 Always exploring new ways to apply technology to solve real-world challenges.
+- 💼 Hackathon? I'm in. Let's make something together?
 
 ---
 
